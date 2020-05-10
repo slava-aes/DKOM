@@ -48,7 +48,7 @@ int main(void)
 	char* pidSz;
 	char* outputBuffer;
 
-	pidSz			= (char*)malloc(sizeof(char) * 128);
+	pidSz		= (char*)malloc(sizeof(char) * 128);
 	outputBuffer	= (char*)malloc(sizeof(char) * 128);
 
 	if (pidSz == NULL || outputBuffer == NULL)
