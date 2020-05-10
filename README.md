@@ -3,7 +3,7 @@
 
 PatchGuard takes some minutes to cause a bugcheck
 
-### The ActiveProcessLink offset is hardcoded for this windows build.
+### The ActiveProcessLinks offset is hardcoded for this windows build.
 
 #### This is not required, however. 
 #### Although this offset might change in the next version, it's  **always** after *UniqueProcessId* 
