@@ -11,7 +11,7 @@ PatchGuard takes some minutes to cause a bugcheck
 One can check this by using WinDbg to dump _EPROCESS.
 
 
-For historic view of how these offsets have been changing across diferent windows versions see [here](https://www.vergiliusproject.com)
+For a historic view of how these offsets have been changing across diferent windows versions see [here](https://www.vergiliusproject.com)
 
 
 ### Demo:
